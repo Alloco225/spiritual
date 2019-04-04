@@ -1,4 +1,5 @@
-# spiritual -spirituals.com- || -spiritualprogrammers.com-
+# [spiritual](github.com/Alloco225/spiritual)
+##  -spirituals.com- || -spiritualprogrammers.com-
 
 ## Site web du groupe Spiritual Programmers [NaN](www.nan.ci)
 
