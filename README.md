@@ -72,7 +72,7 @@
   1. [ ] CRUD par catégories (membres, membre_roles, post_categories, notes, etc)
     
 ### Credits 
-  - [Souleyman Al-amin KadimouLah](toure5013)
-  - [Fullstack](NonwaFabrice07)
+  - [Souleyman Al-amin KadimouLah](github.com/toure5013)
+  - [Fullstack](github.com/NonwaFabrice07)
   - [Alloco225](github.com/Alloco225)
     
